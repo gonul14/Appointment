@@ -1,0 +1,56 @@
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.dll
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.pdb
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csprojAssemblyReference.cache
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.dll
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.dll.config
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\WindowsFormsApp1.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.dll.config
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.dll.config
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.Migrations.fhfg.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.GenerateResource.Cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.Migrations.fhf.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.Migrations.fhs.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.Migrations.qwerty.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.Migrations.firstMigration.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.GenerateResource.Cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.Migrations._1.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.Migrations.firstAppointment.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.DAL\obj\Debug\Randevu.DAL.csproj.GenerateResource.cache

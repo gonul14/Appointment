@@ -1,0 +1,102 @@
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csprojAssemblyReference.cache
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Properties.Resources.resources
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserLogin.resources
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.GenerateResource.cache
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe.config
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.pdb
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.exe
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.pdb
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserRegister.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe.config
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.BLL.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\WindowsFormsApp1.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.BLL.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.dll.config
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Properties.Resources.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserLogin.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserRegister.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.CopyComplete
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.exe
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe.config
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.BLL.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.BLL.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.xml
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.dll.config
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Properties.Resources.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserLogin.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserRegister.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.GenerateResource.Cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.exe
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Appointments.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Homepage.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.MakeAppointment.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.WorkingDay.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Examination.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.BeforePrescription.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Prescription.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.PrescriptionList.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Appointments.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.BeforePrescription.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Examination.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Homepage.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.MakeAppointment.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Prescription.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.PrescriptionList.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.WorkingDay.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe.config
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.exe
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.WinFormUI.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.BLL.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.BLL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.xml
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\bin\Debug\Randevu.DAL.dll.config
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Appointments.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.BeforePrescription.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Examination.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Homepage.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.MakeAppointment.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Prescription.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.PrescriptionList.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.Properties.Resources.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserLogin.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.UserRegister.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.WorkingDay.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.GenerateResource.Cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.exe
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.WinFormUI\obj\Debug\Randevu.WinFormUI.pdb

@@ -1,0 +1,46 @@
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.dll
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.pdb
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csprojAssemblyReference.cache
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.dll
+C:\Users\Asu\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\WindowsFormsApp1.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.dll.config
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.dll.config
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.BLL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\Randevu.DAL.dll.config
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\Randevu.BLL\obj\Debug\Randevu.BLL.pdb

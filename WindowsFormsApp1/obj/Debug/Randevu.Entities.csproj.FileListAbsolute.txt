@@ -1,0 +1,39 @@
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csprojAssemblyReference.cache
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.GenerateResource.cache
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.CopyComplete
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Asu\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Migrations.AppointmentFirst.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.dll
+C:\Users\ASUS\source\repos\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.GenerateResource.Cache
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.GenerateResource.Cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\obj\Debug\Randevu.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dll
+C:\Users\Yasin\Desktop\Yeni klasör (3)\RandevuSistemi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
